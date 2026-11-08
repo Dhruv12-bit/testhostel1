@@ -1,0 +1,13 @@
+{
+  "name": "shri-samarth-pg-owner",
+  "compatibility_date": "2026-11-08",
+  "assets": {
+    "directory": "."
+  },
+  "kv_namespaces": [
+    {
+      "binding": "LICENSES",
+      "id": "your-unique-kv-id-here"
+    }
+  ]
+}
